@@ -1,0 +1,2 @@
+Use this command in PowerShell as Administrator to be able to build by using command serve -s build:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
